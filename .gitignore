@@ -1,0 +1,11 @@
+*.exe
+*.o
+main.o
+main
+unit_test
+cmake_install.cmake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+lib
+.vscode/
